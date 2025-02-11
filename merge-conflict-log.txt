@@ -1,0 +1,20 @@
+* 90e8f53 Changing index.html for teamate
+* d84b0d7 Addedd git logs and repo link text files
+*   84b9a2c Resolved conflicts
+|\  
+| * 0a4db3b Added favorite game
+* |   87cfdfa Added favorite food
+|\ \  
+| |/  
+|/|   
+| *   6b82c78 Merge pull request #1 from Vadann/info-fill
+| |\  
+| | * 6e121e0 Updated index with my name and hobby
+| |/  
+* / e4356bc Added README file
+|/  
+| * 005692b Deleted Color About Me
+| * 53c064b Adding Feature Stating Favorite Color
+| * 815ac31 Complete Revamp of index.html
+|/  
+* 1d2bfc0 Added index.html
